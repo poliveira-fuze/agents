@@ -1,9 +1,6 @@
 ---
 name: sip-media-negotiation
 description: Use when handling SDP offer/answer, codec negotiation, media capabilities, and RTP session setup in SIP applications.
-allowed-tools:
-  - Bash
-  - Read
 ---
 
 # SIP Media Negotiation

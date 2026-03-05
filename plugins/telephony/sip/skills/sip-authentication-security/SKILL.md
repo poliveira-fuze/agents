@@ -1,10 +1,6 @@
 ---
 name: sip-authentication-security
-user-invocable: false
 description: Use when implementing SIP authentication, security mechanisms, and encryption. Use when securing SIP servers, clients, or proxies.
-allowed-tools:
-  - Bash
-  - Read
 ---
 
 # SIP Authentication and Security
